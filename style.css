@@ -1,0 +1,12 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) *
+*/
+
+ul {
+    list-style: none;
+    float: right;
+}
+
+button {
+    background-color: pink;
+    color: white;
+}
